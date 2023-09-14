@@ -1,0 +1,12 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 2px solid 	#99d1db; /* Add white border to the table */
+}
+
+th,
+td {
+  border: 1px solid 	#99d1db; /* Add white border to table cells */
+  padding: 8px;
+  text-align: left;
+}
